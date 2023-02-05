@@ -1,0 +1,5 @@
+Flask==2.2.2
+Flask-Cors==3.0.10
+python-dotenv==0.21.1
+python-jose==3.3.0
+six==1.16.0

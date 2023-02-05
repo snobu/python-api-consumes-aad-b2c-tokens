@@ -1,0 +1,6 @@
+# curl -i "http://localhost:3333/api/private" \
+#    -H "Authorization: Bearer eyJ0eXAiOi..."
+
+# or better yet, use VS Code REST Client extension
+GET http://localhost:3333/api/private-scoped
+Authorization: Bearer eyJ0eXAiOi...
